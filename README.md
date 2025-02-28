@@ -130,7 +130,32 @@ Work on side projects to experiment with new technologies.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Unit testing involves testing individual components or functions of a software application in isolation.
+Importance:
+Detects bugs early in the development cycle.
+Ensures each module or function works as expected.
 
+ntegration testing checks the interactions between different modules or components of a system to ensure they work together correctly.
+
+Importance:
+
+Identifies interface defects between integrated components.
+Ensures seamless communication between different system parts.
+
+System testing evaluates the entire system as a whole to ensure it meets the specified requirements.
+
+Importance:
+
+Verifies that all components work together as a complete system.
+Identifies performance, security, and usability issues.
+
+
+Acceptance testing is performed to validate whether the software meets business requirements and is ready for deployment.
+
+Importance:
+
+Ensures the software meets end-user expectations.
+Confirms that all functional and non-functional requirements are satisfied.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
@@ -139,3 +164,14 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Example of a Vague Prompt:
+"Write about technology."
+
+Improved Prompt:
+"Write a 500-word article on how artificial intelligence is transforming the healthcare industry, including its benefits, challenges, and real-world applications."
+
+Why the Improved Prompt is More Effective:
+Clear Scope: Specifies that the topic is artificial intelligence in healthcare, rather than technology in general.
+Defined Length: Sets a 500-word limit, making the task more manageable.
+Focused Content: Requests information on benefits, challenges, and real-world applications, ensuring depth and relevance.
